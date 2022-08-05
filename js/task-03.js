@@ -13,7 +13,6 @@ const images = [
   },
 ];
 
-// console.log(images);
 
 const gelEl = document.querySelector(".gallery");
 
